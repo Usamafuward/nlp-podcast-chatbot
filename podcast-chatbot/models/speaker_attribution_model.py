@@ -1,6 +1,4 @@
 import re
-
-
 class SpeakerAttribution:
     def __init__(self, transcripts):
         self.transcripts = transcripts  # Load transcripts data

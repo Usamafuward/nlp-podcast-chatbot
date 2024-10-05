@@ -2,7 +2,6 @@ import nltk
 from nltk.sentiment import SentimentIntensityAnalyzer
 import re
 
-
 class SentimentAnalysis:
     def __init__(self):
         # Ensure the VADER lexicon is downloaded
